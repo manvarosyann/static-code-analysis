@@ -4,7 +4,7 @@ This project demonstrates the integration of static code analysis tools in a Mav
 
 1. PMD
 2. Checkstyle
-3. SpotBugs (with Find Security Bugs)
+3. SpotBugs
 
 How to Run Static Analysis? 
 
