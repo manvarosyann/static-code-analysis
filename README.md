@@ -3,8 +3,8 @@
 This project demonstrates the integration of static code analysis tools in a Maven project. The following tools have been configured and executed during the `verify` phase:
 
 1. PMD
-2. Checkstyle**
-3. SpotBugs** (with Find Security Bugs)
+2. Checkstyle
+3. SpotBugs (with Find Security Bugs)
 
 How to Run Static Analysis? 
 
